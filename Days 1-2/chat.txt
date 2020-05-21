@@ -1,0 +1,18 @@
+09:02:00	 From  Jordan Goldmeier : https://github.com/exceltv/excel-analytics/tree/master/Days%201-2
+09:38:03	 From  Wendy : How would you share just the chart, not all the data?
+09:38:29	 From  Wendy : yes, like send it to an executive
+10:55:30	 From  Jordan Goldmeier : The font is called Playbill
+10:59:49	 From  Ashley Scott : Very insightful!
+11:00:39	 From  Andrea Lipack   to   Jordan Goldmeier(Privately) : Hi Jordan - not sure what I am doing wrong but I created the Excel Academy account with the stony brook code and logged in but it still says for members only
+11:04:03	 From  Jordan Goldmeier : I betI can fix that right now!
+11:06:59	 From  Jordan Goldmeier : Hey everyone! If you were having trouble accessing the courses, I have fixed it! Please check now. 
+11:14:00	 From  Ashley Scott : Can we email you if we encounter any issues with the practice items?
+11:14:34	 From  Ashley Scott : Also, when will we receive the recordings?
+11:20:53	 From  Krista Gottlieb   to   Jordan Goldmeier(Privately) : Can you share your screen please?
+11:20:55	 From  Kristina Lukasik : i don’t think you’re sharing your screen
+11:20:56	 From  Wendy   to   Jordan Goldmeier(Privately) : share your screen please
+11:47:30	 From  Andrea Lipack   to   Jordan Goldmeier(Privately) : when you slice on date it doesn't show date range on chart?
+11:53:11	 From  Andrea Lipack   to   Jordan Goldmeier(Privately) : love those
+12:00:39	 From  Andrea Lipack : Is Power BI equal to Tableau or are there significant differences?
+12:05:51	 From  Andrea Lipack : Jordan my weakness is formulas - is there a way for me to build up on that between now and next week?
+12:06:00	 From  Krista Gottlieb : Thank you!
